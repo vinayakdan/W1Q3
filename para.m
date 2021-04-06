@@ -1,2 +1,2 @@
-noise=2*pi*100;
-signal=2*pi*1000;
+noise=2*pi*200;
+signal=2*pi*2000;
